@@ -1,0 +1,10 @@
+.button {
+  cursor: pointer;
+  background-color: transparent;
+  border: none;
+}
+
+.icon {
+  font-size: 60px;
+  color: #64baaa;
+}
