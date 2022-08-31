@@ -1,5 +1,7 @@
-#CryptoBruh
+# CryptoBruh
 
- A platform for reviewing Crypto-currency market and prices ~ 
+A platform for reviewing Crypto-currency market and prices ~ 
 
-Made with CoinGecko API#
+Made with CoinGecko API
+
+Check it our here: https://cryptobruh.onrender.com/.
